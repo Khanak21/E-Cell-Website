@@ -130,16 +130,6 @@ const GetInTouch = () => {
                 >
                   <PhoneIcon className="text-gray-400 mr-4 group-hover:text-green-400 transition-colors" />
                   <div className="text-gray-300 group-hover:text-white transition-colors">
-                    <div>Priyanshu Agrawal - 8755799544</div>
-                  </div>
-                </motion.div>
-                
-                <motion.div
-                  whileHover={{ x: 5 }}
-                  className="flex items-center group"
-                >
-                  <PhoneIcon className="text-gray-400 mr-4 group-hover:text-green-400 transition-colors" />
-                  <div className="text-gray-300 group-hover:text-white transition-colors">
                     <div>Parth Kumar - 8532036865</div>
                   </div>
                 </motion.div>
